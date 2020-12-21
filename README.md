@@ -12,7 +12,7 @@ If you use this code for your work, please cite
 ```
 ## Play with our [online demo](https://cogcomp.seas.upenn.edu/page/demo_view/QuASE).
 
-## Installing Dependencies
+## Install dependencies
 Use virtual environment tools (e.g miniconda) to install packages and run experiments\
 python>=3.6\
 pip install -r requirements.txt
@@ -20,6 +20,10 @@ pip install -r requirements.txt
 ## Download the pre-trained models
 Our pre-trained models can be found in the [google drive](https://drive.google.com/drive/folders/1j6ufXtxFekPM9CfM5CxKfmwHsqLR8kNY?usp=sharing).
 
-## Change the Dir Path
+## Change the model path
 Change the /path/to/models in the app/bert_lm.py to the path of the downloaded pre-trained models.
+
+## Run the online model
+python manage.py runserver 0.0.0.0:4003 (change the 4003 to other port number as needed)
+
 
