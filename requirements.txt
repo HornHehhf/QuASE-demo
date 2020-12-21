@@ -7,4 +7,3 @@ requests==2.23.0
 Django==3.0.3
 tqdm==4.43.0
 pytorch_pretrained_bert==0.6.2
-apex==0.9.10dev
