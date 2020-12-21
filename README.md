@@ -17,9 +17,9 @@ Use virtual environment tools (e.g miniconda) to install packages and run experi
 python>=3.6\
 pip install -r requirements.txt
 
-## The models
+## Download the pre-trained models
 Our pre-trained models can be found in the [google drive](https://drive.google.com/drive/folders/1j6ufXtxFekPM9CfM5CxKfmwHsqLR8kNY?usp=sharing).
 
 ## Change the Dir Path
-Change the /path/to/models in the app/bert_lm.py to the path of your models.
+Change the /path/to/models in the app/bert_lm.py to the path of the downloaded pre-trained models.
 
