@@ -14,7 +14,7 @@ If you use this code for your work, please cite
 
 ## Install dependencies
 Use virtual environment tools (e.g miniconda) to install packages\
-python==3.6\
+python==3.6.7\
 pip install -r requirements.txt
 
 ## Download the pre-trained models
